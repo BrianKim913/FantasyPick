@@ -1,4 +1,4 @@
-package org.example.fantasypick;
+package org.example.fantasypick.application.mainapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
